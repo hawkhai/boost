@@ -1,0 +1,3 @@
+[submodule "curl_7.15.0"]
+	path = curl_7.15.0
+	url = git@github.com:hawkhai/curl.git
